@@ -1,6 +1,6 @@
 /* General Styles */
 * {
-    margin: 10;
+    margin: 100;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Times New Roman', sans-serif;
@@ -92,7 +92,7 @@ nav {
     text-align: center;
     color: #fff;
     padding: 0 20px;
-    margin-top: 60px; /* Offset for fixed header */
+    margin-top: 60px;
 }
 
 .hero-text {
